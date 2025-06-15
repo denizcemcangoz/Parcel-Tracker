@@ -1,0 +1,19 @@
+=== ParcelSortX Simulation Report ===
+Generated at: 2025-05-26 12:33:06
+
+1. Simulation Overview
+   - Total Ticks Executed: 300
+   - Number of Parcels Generated: 626
+
+2. Parcel Statistics
+   - Total Dispatched Parcels: 271
+   - Total Returned Parcels: 24
+   - Parcels in Queue at End: 0
+   - Parcels in BST at End: 0
+   - Parcels in ReturnStack at End: 0
+
+3. Data Structure Statistics
+   - Maximum Queue Size Observed: 30
+   - Maximum Stack Size Observed: 0
+   - Final Height of BST: 3
+   - Hash Table Load Factor: 0,67
